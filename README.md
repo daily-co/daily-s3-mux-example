@@ -1,4 +1,4 @@
-# Amazon Lambda to Mux Example
+# S3 Amazon Lambda to Mux Example
 
 This sets up the infrastructure (IAM permissions, lambda function, and s3 bucket) to automatically POST to Mux every time Daily saves a video to the s3 bucket.
 
